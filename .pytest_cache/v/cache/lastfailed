@@ -1,0 +1,5 @@
+{
+  "test_magic_8_ball.py::Test_Tripple_Check::test_returns_the_unique_element": true,
+  "test_simple_pig_latin_converter.py::Test_Simple_Latin_Pig_Converter::()::test_returns_valid_convertion": true,
+  "test_simple_pig_latin_converter.py::Test_Simple_Latin_Pig_Converter::test_returns_valid_convertion": true
+}
